@@ -5,7 +5,7 @@ This is a **static personal portfolio website** created to showcase my **researc
 The main goal of this website is to provide potential collaborators, employers, and peers with a clear understanding of my work and background.  
 
 
-**Live Site:** [https://muntaqimahmed.github.io/IWS1-Project-1/](https://muntaqimahmed.github.io/IWS1-Project-1/)
+**Live Site:** [https://muntaqimahmed.github.io/](https://muntaqimahmed.github.io/)
 
 
 
